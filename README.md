@@ -2,13 +2,13 @@
 
 Welcome to NutriCart! This repository contains the source code, design and research files for the shopping app.
 
-#DESCRIPTION 
+##DESCRIPTION 
 
 NutriCart is a mobile shopping app designed to empower users to make informed choices about the nutritional value of the foods they purchase. With NutriCart, users can access detailed information about the calorie count, ingredients, and overall nutritional value of the products in their shopping cart.
 
 The primary goal of NutriCart is to promote healthy eating habits by providing users with easy access to comprehensive nutritional information. By enabling users to understand the nutritional content of the products they buy, NutriCart empowers them to make informed decisions that align with their dietary preferences and goals.
 
-#KEY FEATURES
+##KEY FEATURES
 
 - **List Creation:** Easily create shopping lists, add items, and check them off as you shop, ensuring you never forget anything you need.
 
