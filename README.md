@@ -18,8 +18,6 @@ The primary goal of NutriCart is to promote healthy eating habits by providing u
 
 - **Discounts:** Discover special offers and discounts on a variety of products, saving you money and providing easy access to current sales and promotional offers.
 
-**Link to Hosted Website:** [Maaike Gerardin Personal Website](https://denydeny1234.github.io/Maaikee-Gerardin-s-website/)
-
 ## USAGE INSTRUCTIONS
 
 Before using the Shopping App, ensure you have the following:
